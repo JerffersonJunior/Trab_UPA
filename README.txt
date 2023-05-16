@@ -1,9 +1,6 @@
-Esse repositório foi modificado as 15:25 com intuito de correção:;
-teste
-test
-tes
-te
-t
+Olá esta é o arquivo de t introdução do repositorio
+""
 .
-.
+111
+.1
 ...
